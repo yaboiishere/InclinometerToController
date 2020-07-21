@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fVM07MSSMT9WoY3KS4hY33iZoaOQG3LyUoCsCy4EiAj0ASCabA1hNYazeL9p0q7uPp6Eaw3/2wnGKKQonkqIWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mixai\\source\\repos\\InclineometerToController\\InclineometerToController\\InclineometerToController.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mixai\\.nuget\\packages\\costura.fody\\4.1.0\\costura.fody.4.1.0.nupkg.sha512",
+    "C:\\Users\\mixai\\.nuget\\packages\\fody\\6.2.0\\fody.6.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

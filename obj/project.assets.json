@@ -1,0 +1,143 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Costura.Fody/4.1.0": {
+        "type": "package",
+        "build": {
+          "build/Costura.Fody.props": {}
+        }
+      },
+      "Fody/6.2.0": {
+        "type": "package",
+        "build": {
+          "build/Fody.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Costura.Fody/4.1.0": {
+      "sha512": "MkW5aqhqNvuP6MiaaD5Yx8efXv+5ucsumRx+Nsn5b+PA4RnaxJLtXhGkm1N+Hi7sjkSlL8kl1klSS/7v2DxZHw==",
+      "type": "package",
+      "path": "costura.fody/4.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Costura.Fody.props",
+        "costura.fody.4.1.0.nupkg.sha512",
+        "costura.fody.nuspec",
+        "lib/net40/Costura.dll",
+        "lib/net40/Costura.xml",
+        "weaver/Costura.Fody.dll",
+        "weaver/Costura.Fody.xcf"
+      ]
+    },
+    "Fody/6.2.0": {
+      "sha512": "hgSbLWRIscIkfV70V4P6246xfLI4onz0wd/O0kQ9ufot+VCl3ya9pYtU9IVkjRMFYxgVF20zS8wVciq59LXaGQ==",
+      "type": "package",
+      "path": "fody/6.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "License.txt",
+        "build/Fody.targets",
+        "fody.6.2.0.nupkg.sha512",
+        "fody.nuspec",
+        "netclassictask/Fody.dll",
+        "netclassictask/FodyCommon.dll",
+        "netclassictask/FodyHelpers.dll",
+        "netclassictask/FodyIsolated.dll",
+        "netclassictask/Mono.Cecil.Pdb.dll",
+        "netclassictask/Mono.Cecil.Pdb.pdb",
+        "netclassictask/Mono.Cecil.Rocks.dll",
+        "netclassictask/Mono.Cecil.Rocks.pdb",
+        "netclassictask/Mono.Cecil.dll",
+        "netclassictask/Mono.Cecil.pdb",
+        "netstandardtask/Fody.dll",
+        "netstandardtask/FodyCommon.dll",
+        "netstandardtask/FodyHelpers.dll",
+        "netstandardtask/FodyIsolated.dll",
+        "netstandardtask/Mono.Cecil.Pdb.dll",
+        "netstandardtask/Mono.Cecil.Pdb.pdb",
+        "netstandardtask/Mono.Cecil.Rocks.dll",
+        "netstandardtask/Mono.Cecil.Rocks.pdb",
+        "netstandardtask/Mono.Cecil.dll",
+        "netstandardtask/Mono.Cecil.pdb"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Costura.Fody >= 4.1.0",
+      "Fody >= 6.2.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mixai\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\mixai\\source\\repos\\InclineometerToController\\InclineometerToController\\InclineometerToController.csproj",
+      "projectName": "InclineometerToController",
+      "projectPath": "C:\\Users\\mixai\\source\\repos\\InclineometerToController\\InclineometerToController\\InclineometerToController.csproj",
+      "packagesPath": "C:\\Users\\mixai\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mixai\\source\\repos\\InclineometerToController\\InclineometerToController\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mixai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Costura.Fody": {
+            "target": "Package",
+            "version": "[4.1.0, )"
+          },
+          "Fody": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[6.2.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

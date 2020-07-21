@@ -1,0 +1,16 @@
+C:\Users\mixai\source\repos\InclineometerToController\InclineometerToController\bin\Release\netcoreapp3.1\InclineometerToController.exe
+C:\Users\mixai\source\repos\InclineometerToController\InclineometerToController\bin\Release\netcoreapp3.1\InclineometerToController.deps.json
+C:\Users\mixai\source\repos\InclineometerToController\InclineometerToController\bin\Release\netcoreapp3.1\InclineometerToController.runtimeconfig.json
+C:\Users\mixai\source\repos\InclineometerToController\InclineometerToController\bin\Release\netcoreapp3.1\InclineometerToController.runtimeconfig.dev.json
+C:\Users\mixai\source\repos\InclineometerToController\InclineometerToController\bin\Release\netcoreapp3.1\InclineometerToController.dll
+C:\Users\mixai\source\repos\InclineometerToController\InclineometerToController\bin\Release\netcoreapp3.1\InclineometerToController.pdb
+C:\Users\mixai\source\repos\InclineometerToController\InclineometerToController\bin\Release\netcoreapp3.1\Windows.winmd
+C:\Users\mixai\source\repos\InclineometerToController\InclineometerToController\obj\Release\netcoreapp3.1\InclineometerToController.csprojAssemblyReference.cache
+C:\Users\mixai\source\repos\InclineometerToController\InclineometerToController\obj\Release\netcoreapp3.1\InclineometerToController.csproj.CoreCompileInputs.cache
+C:\Users\mixai\source\repos\InclineometerToController\InclineometerToController\obj\Release\netcoreapp3.1\InclineometerToController.AssemblyInfoInputs.cache
+C:\Users\mixai\source\repos\InclineometerToController\InclineometerToController\obj\Release\netcoreapp3.1\InclineometerToController.AssemblyInfo.cs
+C:\Users\mixai\source\repos\InclineometerToController\InclineometerToController\obj\Release\netcoreapp3.1\InclineometerToController.csproj.CopyComplete
+C:\Users\mixai\source\repos\InclineometerToController\InclineometerToController\obj\Release\netcoreapp3.1\InclineometerToController.dll
+C:\Users\mixai\source\repos\InclineometerToController\InclineometerToController\obj\Release\netcoreapp3.1\InclineometerToController.pdb
+C:\Users\mixai\source\repos\InclineometerToController\InclineometerToController\obj\Release\netcoreapp3.1\InclineometerToController.genruntimeconfig.cache
+C:\Users\mixai\source\repos\InclineometerToController\InclineometerToController\obj\Release\netcoreapp3.1\InclineometerToController.csproj.Fody.CopyLocal.cache
